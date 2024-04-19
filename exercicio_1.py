@@ -3,9 +3,11 @@
 
 Receba um número inteiro de um usuário. Se ele for par, imprima "Par". Se não, imprima "Ímpar".
 
-numero = int(input("Digite um número inteiro: "))
+numero = 10
 
 if numero % 2 == 0:
     print("Par")
 else:
     print("Ímpar")
+
+Par
