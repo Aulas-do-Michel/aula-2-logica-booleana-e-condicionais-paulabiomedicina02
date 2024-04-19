@@ -1,6 +1,6 @@
 """
 #### Exercício 1
-
+222
 Receba um número inteiro de um usuário. Se ele for par, imprima "Par". Se não, imprima "Ímpar".
 
 Exemplo:
