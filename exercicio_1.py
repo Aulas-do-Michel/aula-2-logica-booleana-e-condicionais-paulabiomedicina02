@@ -1,19 +1,11 @@
 """
 #### Exercício 1
-222
+
 Receba um número inteiro de um usuário. Se ele for par, imprima "Par". Se não, imprima "Ímpar".
 
-Exemplo:
+numero = int(input("Digite um número inteiro: "))
 
-Digite um número:
-10
-
-Par
---------
-Digite um número:
-1
-
-Ímpar
-
-Dica: Lembre do comando de resto da divisão inteira!
-"""
+if numero % 2 == 0:
+    print("Par")
+else:
+    print("Ímpar")
